@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+metafang.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22reg%22%3A%22%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D
+metafang.com	TRUE	/	FALSE	1999999999	_shopify_m	persistent
+metafang.com	TRUE	/	FALSE	1999999999	localization	TR
+metafang.com	TRUE	/	FALSE	1999999999	_orig_referrer	http%3A%2F%2Fmetafang.com%2F
+metafang.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpassword
+metafang.com	TRUE	/	FALSE	1999999999	_y	ba8868a2-b134-4c19-ac08-d984157b457b
+metafang.com	TRUE	/	FALSE	1999999999	_s	bb29f7e2-2192-419d-8fe1-12621d477ab7
+metafang.com	TRUE	/	FALSE	1999999999	_shopify_y	ba8868a2-b134-4c19-ac08-d984157b457b
+metafang.com	TRUE	/	FALSE	1999999999	_shopify_s	bb29f7e2-2192-419d-8fe1-12621d477ab7
+metafang.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
